@@ -124,7 +124,7 @@ body{
 
 @media (max-width: 360px) {
 
-  .canais{
+  .canais-breakpoint{
     display: grid;
     grid-template-columns: 1fr 1fr;
     grid-gap: 16px;
