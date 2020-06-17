@@ -1,0 +1,166 @@
+/* ------------- Estilos complementares para este template ------------- */
+
+body{
+  background-color: rgb(228, 227, 227);
+}
+
+
+
+/* -------------------------------------------- */
+/* ------------- Banner Cadastrar ------------- */
+/* -------------------------------------------- */
+
+#img-logo{
+  width: 50px;
+  height: 50px;
+}
+
+.header{
+  padding: 5px;
+}
+
+.header-texto {
+  color: green;
+  font-size: 30px;    
+}
+
+
+
+/* ------------------------------------------ */
+/* ------------- Banner Acessar ------------- */
+/* ------------------------------------------ */
+
+.nav-principal li{
+  margin-left: 10px;
+}
+
+.nav-submenu a:hover{
+  background-color: rgb(167, 163, 163);
+  color: white;
+}
+
+.nav-acessar{
+  background-color: black;
+  padding: 5px;
+  font-size: 20px;
+}
+
+
+
+/* ------------------------------------- */
+/* ------------- Slideshow ------------- */
+/* ------------------------------------- */
+
+.carousel {
+  margin-bottom: 40px;
+}
+
+.carousel-inner{
+  background-color: rgb(167, 163, 163);
+}
+
+.carousel-caption {
+  bottom: 30px;
+  z-index: 10;
+}
+
+.carousel-item {
+  height: 300px;
+}
+
+
+
+/* --------------------------------- */
+/* ------------- Cards ------------- */
+/* --------------------------------- */
+
+
+
+/* ----------------------------------------- */
+/* ------------- Segunda Seção ------------- */
+/* ----------------------------------------- */
+
+
+
+/* ------------------------------------------------ */
+/* ------------- Vale a pena conhecer ------------- */
+/* ------------------------------------------------ */
+
+.canais{
+  background-color: rgb(212, 209, 209);
+  margin-top: 30px;
+  margin-left: 0px;
+  padding-top: 30px;
+  padding-bottom: 30px;
+}
+
+
+
+/* ---------------------------------- */
+/* ------------- Footer ------------- */
+/* ---------------------------------- */
+
+.blog-footer {
+  background-color: rgb(228, 227, 227);
+  padding: 2.5rem 0;
+  color: #999;
+  text-align: center;
+}
+
+.blog-footer p {
+  padding: 0 0;
+  margin-bottom: 0;
+}
+
+.blog-footer p:last-child {
+  margin-bottom: 0;
+}
+
+
+
+/* -------------------------------------- */
+/* ------------- Breakpoint ------------- */
+/* -------------------------------------- */
+
+@media (max-width: 480px) {
+
+  .canais{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-gap: 16px;
+  }
+  
+}
+
+@media (max-width: 990px) {
+
+  .canais{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    grid-gap: 16px;
+  }
+  
+}
+
+@media (min-width: 990px) {
+
+  .canais{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr;
+    grid-gap: 16px;
+  }
+  
+}
+
+@media (min-width: 400px) {
+
+  .carousel-caption p {
+    margin-bottom: 1.25rem;
+    font-size: 1.25rem;
+    line-height: 1.4;
+  }
+
+}
+  
+
+    
