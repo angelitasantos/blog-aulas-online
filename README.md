@@ -1,4 +1,4 @@
-# dio-class-html-css-bootstrap
+# HTML, CSS, Bootstrap
 Site criado a partir das aulas sobre HTML, CSS e Bootstrap do curso Global Fullstack Developer da Digital Innovation One
 
 Outras pesquisas
