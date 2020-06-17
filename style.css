@@ -122,7 +122,7 @@ body{
 /* ------------- Breakpoint ------------- */
 /* -------------------------------------- */
 
-@media (max-width: 500px) {
+@media (max-width: 800px) {
 
   .canais{
     display: grid;
@@ -132,7 +132,7 @@ body{
   
 }
 
-@media (min-width: 990px) {
+@media (min-width: 800px) {
 
   .canais{
     display: grid;
