@@ -122,17 +122,17 @@ body{
 /* ------------- Breakpoint ------------- */
 /* -------------------------------------- */
 
-@media (max-width: 800px) {
+@media (max-width: 990px) {
 
   .canais{
     display: grid;
-    grid-template-columns: 1fr 1fr;
+    grid-template-columns: 1fr 1fr 1fr;
     grid-gap: 16px;
   }
   
 }
 
-@media (min-width: 800px) {
+@media (min-width: 990px) {
 
   .canais{
     display: grid;
