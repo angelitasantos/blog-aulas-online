@@ -3,7 +3,7 @@ Site criado a partir das aulas sobre HTML, CSS e Bootstrap do Bootcamp Global Fu
 
 Outras pesquisas
 <p>https://github.com/hideraldus13/roadmap-do-desenvolvedor-web</p>
-https://github.com/sindresorhus/awesome#readme
-https://github.com/theandersonn/comandos-git
-https://github.com/carolsoaressantos/front-end-do-zero
-https://github.com/carolsoaressantos/videos-pt.br-tecnologia
+<p>https://github.com/sindresorhus/awesome#readme</p>
+<p>https://github.com/theandersonn/comandos-git</p>
+<p>https://github.com/carolsoaressantos/front-end-do-zero</p>
+<p>https://github.com/carolsoaressantos/videos-pt.br-tecnologia</p>
